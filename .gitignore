@@ -1,0 +1,27 @@
+# Environment files
+.env
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Cache
+__pycache__/
+*.pyc
+
+# Database files
+*.sqlite
+
+# Upload folders
+uploads/
+media/
+
+# Node modules
+node_modules/
